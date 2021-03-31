@@ -1,5 +1,5 @@
 {
-  "name": "@yyp-test/package1",
+  "name": "package1",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "f6c3d614c1094f1a0ae041dadfdc6937b6fbdf33"
 }
